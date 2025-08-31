@@ -127,5 +127,4 @@ ecommerce-analysis/
 
 ---
 
-## ⚡️ Not
-Datasetler **örnekleme amacıyla oluşturulmuştur**, gerçek müşteri verisi içermez.  
+
